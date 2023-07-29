@@ -4,7 +4,7 @@
       "name": "myTimer",
       "type": "timerTrigger",
       "direction": "in",
-      "schedule": "0 57 15 * * *",
+      "schedule": "0 37 16 * * *",
       "authLevel": "anonymous"
     }
   ]
